@@ -19,7 +19,7 @@ O **PriceTrackr** é uma aplicação web desenvolvida com **FastAPI**, **SQLite*
 - **Jinja2**
 - **SQLite**
 - **HTML/CSS**
-- **JavaScript** (se necessário)
+- **JavaScript** 
 - **Uvicorn**
 
 ## 📦 Instalação
